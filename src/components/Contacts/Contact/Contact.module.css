@@ -1,0 +1,15 @@
+.Contact{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.Contact img{
+    margin-right: 2rem;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 1.5rem;
+}
+
+.Contact h4,p{
+    margin: 0;
+}

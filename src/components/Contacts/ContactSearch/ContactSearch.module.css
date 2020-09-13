@@ -1,0 +1,7 @@
+.ContactSearch input[type=text]{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
