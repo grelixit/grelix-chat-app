@@ -1,0 +1,12 @@
+.Receiver{
+    width: 50%;
+    float: right;
+}
+
+.Receiver p{
+    float: right;
+    color: honeydew;
+    background: #26d39e;
+    padding: .2rem .5rem;
+    border-radius: 5px;
+}

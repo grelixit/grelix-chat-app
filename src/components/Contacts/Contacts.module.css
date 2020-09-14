@@ -1,3 +1,5 @@
 .Contacts{
     width: 30%;
+    border-right: 1px solid gray;
+    padding-right: 2rem;
 }
