@@ -1,0 +1,17 @@
+.Sender {
+    display: flex;
+    width: 50%;
+}
+.Sender img {
+    margin-right: .5rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+    object-fit: cover;
+}
+
+.Sender p{
+    background: #f1f0f0;
+    padding: .2rem .5rem;
+    border-radius: 5px;    
+}

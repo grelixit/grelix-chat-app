@@ -1,0 +1,16 @@
+.ChatHeader {
+    display: flex;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    margin-left: 1rem;
+    border-bottom: 1px solid gray;
+}
+.ChatHeader h4 {
+    margin: 0;
+}
+.ChatHeader img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 1.5rem;
+    object-fit: cover;
+}

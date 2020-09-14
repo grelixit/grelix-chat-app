@@ -9,7 +9,7 @@ import Chat from './chat/Chat';
 class ChatBox extends Component {
     render() {
         return (
-            <div>
+            <div className={classes.ChatBox}>
                 <ChatHeader/>
                 <ChatDisplay/>
                 <Chat/>

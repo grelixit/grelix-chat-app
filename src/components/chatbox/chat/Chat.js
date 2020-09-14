@@ -1,13 +1,19 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
-class chat extends Component {
+import classes from './Chat.module.css';
+
+class Chat extends Component {
     render() {
         return (
-            <div>
-                Chat
+            <div className={classes.Chat}>
+                <input type='text'/>
+                <div>
+                <button>Send</button>
+                </div>
+                
             </div>
         )
     }
 }
 
-export default chat
+export default Chat
