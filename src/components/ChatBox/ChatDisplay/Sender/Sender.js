@@ -11,7 +11,7 @@ export class Sender extends Component {
                 <div className={classes.Sender}>
                     <img src={contactImg}/>
                         <p>
-                            Hello I am Sadman Boss
+                            Hello I am Rashek Boss
                         </p>
                 </div>
             </div>

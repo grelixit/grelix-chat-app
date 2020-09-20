@@ -8,7 +8,7 @@ export class Receiver extends Component {
             <div>
                 <div className={classes.Receiver}>
                     <p>
-                        Hi, Iam Rashek the CEO..
+                        Hi, Iam Sadman..
                     </p>
                 </div>
             </div>
